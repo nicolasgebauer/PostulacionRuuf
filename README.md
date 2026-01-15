@@ -36,26 +36,12 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 Deja acá el link a tu video explicando tu solución con tus palabras
 
----
-
-## 💰 Bonus (Opcional)
-
-Si completaste alguno de los ejercicios bonus, explica tu solución aquí:
-
-### Bonus Implementado
-*[Indica cuál bonus implementaste: Opción 1 (techo triangular) o Opción 2 (rectángulos superpuestos)]*
-
-
-
-
-### Explicación del Bonus
-*[Explica cómo adaptaste tu algoritmo para resolver el bonus]*
-
-
-
+Link: https://drive.google.com/file/d/1dsM2qATxhWg_8o5kyZANTjfBd0MJZBLQ/view?usp=sharing
 
 ---
 
 ## 🤔 Supuestos y Decisiones
 
-*[Si tuviste que tomar algún supuesto o decisión de diseño, explícalo aquí]*
+Tome las siguentes desiciones:  
+- Los paneles solo se colocarian en la orientación (a,b) o (b,a)
+- El techo se llenaria por medio de columnas o filas de paneles
